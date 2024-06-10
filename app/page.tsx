@@ -38,7 +38,7 @@ export default function Home() {
             <h1 className="h-10"><Code className="w-full scale-[200%]" /></h1>
             <h1>Open Source Chat Client</h1>
             <h1 className="font-normal text-sm">Powered by <Link className="underline" href="https://aistudio.google.com/app/apikey" target="_blank">Google Gemini</Link></h1>
-            <h1 className="font-extralight text-xs">Created by <Link className="underline" href="https://limweijen.vercel.app/" target="_blank">Lim Wei Jen</Link>, and it's <Link className="underline" href="https://github.com/LimWeiJen/open-source-chat-bot" target="_blank">Open Sourced</Link></h1>
+            <h1 className="font-extralight text-xs">Created by <Link className="underline" href="https://limweijen.vercel.app/" target="_blank">Lim Wei Jen</Link>, and it is <Link className="underline" href="https://github.com/LimWeiJen/open-source-chat-bot" target="_blank">Open Sourced</Link></h1>
           </div>
           :
           <div className="h-[85%] w-full flex justify-center">
